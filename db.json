@@ -1,5 +1,7 @@
 {
-  "cpu": 30,
-  "memory": 60,
-  "disk": 40
+  "status":{
+    "cpu": 30,
+    "memory": 60,
+    "disk": 40
+  }
 }
