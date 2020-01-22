@@ -1,4 +1,6 @@
 {
+  "error": false,
+  "message": "Success",
   "status":{
     "cpu": 30,
     "memory": 60,
