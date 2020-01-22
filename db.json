@@ -1,5 +1,5 @@
 {
-  "getStatus":{
+  "status":{
     "error": false,
     "message": "Success",
     "status":{
