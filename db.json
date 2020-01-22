@@ -1,9 +1,11 @@
 {
-  "error": false,
-  "message": "Success",
-  "status":{
-    "cpu": 30,
-    "memory": 60,
-    "disk": 40
+  "getStatus":{
+    "error": false,
+    "message": "Success",
+    "status":{
+      "cpu": 30,
+      "memory": 60,
+      "disk": 40
+    }
   }
 }
